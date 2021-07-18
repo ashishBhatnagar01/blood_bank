@@ -14,7 +14,7 @@ nav{
 
 @media screen and (min-width:766px) {
    .head{
-    background:url(img/cov.jpg);
+    background:url(/cov.jpg);
     height: 100vh;
     object-fit:cover ;
    }

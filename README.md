@@ -1,1 +1,1 @@
-I made this blood donation portal using HTML CSS Bootstrap will add more and more things time by time.
+Fully responsive blood bank portal will add more details with time.
